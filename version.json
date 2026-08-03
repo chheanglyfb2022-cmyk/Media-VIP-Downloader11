@@ -1,8 +1,8 @@
 {
   "version": "1.0.2",
-  "release_date": "2026-08-02",
-  "download_url": "https://github.com/chheanglyfb2022-cmyk/-Media-VIP/releases/download/v1.0.2/MediaVIP.exe",
-  "asset_name": "MediaVIP.exe",
+  "release_date": "02-08-2026",
+  "download_url": "https://github.com/chheanglyfb2022-cmyk/Tools-All-In-One/releases/download/V1.0.1/MediaVIP_Setup_v1.0.1.exe",
+  "asset_name": "MyApplication.exe",
   "file_size": 52428800,
   "sha256": "PUT_THE_REAL_SHA256_HASH_HERE",
   "mandatory": false,
