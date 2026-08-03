@@ -1,0 +1,14 @@
+{
+  "version": "1.0.2",
+  "release_date": "2026-08-02",
+  "download_url": "https://github.com/chheanglyfb2022-cmyk/-Media-VIP/releases/download/v1.0.2/MediaVIP.exe",
+  "asset_name": "MediaVIP.exe",
+  "file_size": 52428800,
+  "sha256": "PUT_THE_REAL_SHA256_HASH_HERE",
+  "mandatory": false,
+  "changelog": [
+    "បានបន្ថែមមុខងារ Auto Update ស្វ័យប្រវត្តិ",
+    "បានកែប្រែបញ្ហាកម្មវិធីគាំង និងបង្កើនល្បឿន",
+    "បានកែលម្អ UI, Download Progress និង Speed Indicator"
+  ]
+}
